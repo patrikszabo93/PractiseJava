@@ -13,7 +13,12 @@ public class PractiseOperators {
 
         System.out.println(4==4 && 5==7);
 
-
+        System.out.println(number1 + 11);
+        number1 = 6;
+        System.out.println(number1 -2);
+        System.out.println(number1 * 3);
+        System.out.println(number1 / 2);
+        System.out.println(6 % 2);
 
 
     }
